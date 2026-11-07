@@ -103,7 +103,4 @@ These organizations have supported our non-profit through grants:
   <a href="https://www.vultr.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/assets/vultr_logo__on-dark.png">
-      <img alt="Vultr" src=".github/assets/vultr_logo__on-white.png" width="480">
-    </picture>
-  </a>
-</div>
+      <img alt="Vultr" src=".github/assets/vultr_logo__on-white.png"
